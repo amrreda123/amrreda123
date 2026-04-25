@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Amr Reda 👋
 
-<!--
-**amrreda123/amrreda123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Full Stack Laravel Developer & Content Creator
+I build scalable web applications and share my technical journey on my YouTube channel **"ElHandaza"**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a **Multi-Vendor E-commerce Platform**.
+- 🌱 I’m currently learning **Advanced System Design & OpenGL**.
+- 🛠 Tech Stack: **PHP (Laravel), C++, MySQL, JavaScript, Livewire**.
+- 💬 Ask me about **MVC Architecture, Database Design, or Web Security**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrreda123&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrreda123&layout=compact&theme=radical)
+
+### 📱 Connect with me:
+[LinkedIn](رابط_لينكد_إن_بتاعك) | [YouTube](رابط_قناتك) | [Portfolio](رابط_معرض_أعمالك)
