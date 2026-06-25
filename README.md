@@ -24,6 +24,28 @@ I build scalable web applications and share my technical journey on my YouTube c
 
 ---
 
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/amrreda123/qr-gourmet-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrreda123&repo=qr-gourmet-backend&theme=radical&hide_border=true&bg_color=0D1117" alt="QR Gourmet Backend" />
+  </a>
+  <a href="https://github.com/amrreda123/laravel-multi-vendor-ecommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrreda123&repo=laravel-multi-vendor-ecommerce&theme=radical&hide_border=true&bg_color=0D1117" alt="Multi-Vendor E-commerce" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/amrreda123/PHP-Native-MVC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrreda123&repo=PHP-Native-MVC&theme=radical&hide_border=true&bg_color=0D1117" alt="PHP Native MVC" />
+  </a>
+  <a href="https://github.com/amrreda123/OpenGL-Solar-System-Simulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrreda123&repo=OpenGL-Solar-System-Simulator&theme=radical&hide_border=true&bg_color=0D1117" alt="OpenGL Solar System" />
+  </a>
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
