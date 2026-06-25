@@ -71,5 +71,5 @@ I build scalable web applications and share my technical journey on my YouTube c
 
 <div align="center">
   <i>Profile Visitors</i><br>
-  <img src="https://profile-counter.glitch.me/amrreda123/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=amrreda123&label=Profile%20Views&color=0077B5&style=flat" alt="Profile Views" />
 </div>
