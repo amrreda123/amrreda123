@@ -1,4 +1,4 @@
-﻿<!-- Header Section -->
+<!-- Header Section -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6c63ff&height=250&section=header&text=Amr%20Reda&fontSize=80&fontAlignY=35&fontColor=ffffff&desc=Backend%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Content%20Creator&descAlignY=58&descAlign=50&descColor=a78bfa&animation=fadeIn" width="100%"/>
 </div>
@@ -37,7 +37,7 @@
 
 ---
 
-## 🧑‍💻 Behind the Code
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30" /> Behind the Code
 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-6c63ff?style=flat-square" />
@@ -47,27 +47,27 @@
 
 <br/>
 
-> *I don't just write scripts — I engineer robust, scalable backend architectures. Specializing in **PHP & Laravel**, I build the backbone of high-performance SaaS platforms and RESTful APIs. Every line of code I write is meticulously crafted, prioritizing maintainability, security, and maximum performance.*
+> *I don't just write scripts --- I engineer robust, scalable backend architectures. Specializing in **PHP & Laravel**, I build the backbone of high-performance SaaS platforms and RESTful APIs. Every line of code I write is meticulously crafted, prioritizing maintainability, security, and maximum performance.*
 
 <table>
 <tr>
 <td width="50%">
 
-### 💡 What I Do
-- 🏗️ **Architecture:** MVC, SOLID, Clean Code, Design Patterns
-- 🚀 **Building:** SaaS platforms, Real-Time Apps, RESTful APIs
-- 🎬 **Educating:** Simplifying programming for thousands on YouTube
-- 🤝 **Collaboration:** Freelance & Open Source contributions
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="25" /> What I Do
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Building%20Construction.png" width="18" /> **Architecture:** MVC, SOLID, Clean Code, Design Patterns
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="18" /> **Building:** SaaS platforms, Real-Time Apps, RESTful APIs
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" width="18" /> **Educating:** Simplifying programming for thousands on YouTube
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="18" /> **Collaboration:** Freelance & Open Source contributions
 
 </td>
 <td width="50%">
 
-### 📚 Currently Learning
-- 🤖 **AI Agents Development** with Python
-- ⚡ **FastAPI** for high-performance APIs
-- 🧠 **LLMs & AI Integration** in modern apps
-- 🐳 **Docker & Linux DevOps** for deployments
-- ⚛️ **Next.js & TypeScript** for Full-Stack mastery
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25" /> Currently Learning
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="18" /> **AI Agents Development** with Python
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="18" /> **FastAPI** for high-performance APIs
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="18" /> **LLMs & AI Integration** in modern apps
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Whale.png" width="18" /> **Docker & Linux DevOps** for deployments
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Atom%20Symbol.png" width="18" /> **Next.js & TypeScript** for Full-Stack mastery
 
 </td>
 </tr>
@@ -75,38 +75,17 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> Tech Arsenal
 
-<div align="center">
-
-#### Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-#### Tools & Platforms
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,cpp,python,fastapi,nextjs,ts,js,html,css,tailwind,linux,docker,git,github,vscode,postman&theme=dark&perline=10" alt="Tech Stack" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amrreda123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub Stats" height="180" />
@@ -121,7 +100,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" /> GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amrreda123&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
@@ -129,7 +108,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" /> Contribution Graph
 
 <p align="center">
   <picture>
@@ -141,17 +120,24 @@
 
 ---
 
-## 🎬 ElHandaza YouTube Channel
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" width="30" /> ElHandaza YouTube Channel
 
 <div align="center">
 
 [![YouTube Channel](https://img.shields.io/badge/ElHandaza-%40Eng__amr__reda-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Eng_amr_reda)
 
-*🎥 قناة تعليمية لتعلم البرمجة وعلوم الحاسب من الصفر حتى الاحتراف*
+<br/>
 
 <a href="https://www.youtube.com/@Eng_amr_reda">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCzRGXbKH1XiD39_IMQhg-Cg?style=for-the-badge&logo=youtube&label=Subscribers&color=FF0000" alt="YouTube Subscribers"/>
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC837LLP00PgPoqmuZGetlpg?style=for-the-badge&logo=youtube&label=Subscribers&color=FF0000" alt="Subscribers"/>
 </a>
+<a href="https://www.youtube.com/@Eng_amr_reda">
+  <img src="https://img.shields.io/youtube/channel/views/UC837LLP00PgPoqmuZGetlpg?style=for-the-badge&logo=youtube&label=Views&color=FF0000" alt="Views"/>
+</a>
+
+<br/><br/>
+
+*A programming & computer science educational channel --- from zero to pro!*
 
 </div>
 
@@ -164,11 +150,11 @@
 <br/>
 
 ```
-💡 "Engineering Code That Speaks For Itself"
+"Engineering Code That Speaks For Itself"
 ```
 
 <br/>
 
-<i>⭐ Star my repos if you find them useful!</i>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20" /> *Star my repos if you find them useful!*
 
 </div>
